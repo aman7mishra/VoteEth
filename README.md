@@ -7,8 +7,7 @@ Published Journal - [Link](https://scopedatabase.com/index.php/Documents/index/0
 
 Download Article - [Link](https://www.ijream.org/SpecialIssueConference/NGEPT2019011.pdf)
 
-
-![demo](https://raw.githubusercontent.com/aman7mishra/VoteEth/snapshots/home.png)
+![Demo](https://user-images.githubusercontent.com/23186617/138652887-c2b9ec5d-bc46-432d-b516-d2a70a65e5f3.png)
 
 ## Requirements 
 
