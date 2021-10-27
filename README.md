@@ -23,12 +23,12 @@ Download Article - [Link](https://www.ijream.org/SpecialIssueConference/NGEPT201
 
 Running the development server. Smart contract changes must be manually recompiled and migrated.
 
-    ```javascript
-    //Install all dependencies
-    npm i
-    
-    // Serves the front-end on http://localhost:3000
-    npm run dev
-    ```
+```javascript
+//Install all dependencies
+npm i
+
+// Serves the front-end on http://localhost:3000
+npm run dev
+```
 
 For more details - [Contact](https://aman.fyi)
