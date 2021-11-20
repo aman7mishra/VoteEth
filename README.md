@@ -30,5 +30,3 @@ npm i
 // Serves the front-end on http://localhost:3000
 npm run dev
 ```
-
-For more details - [Contact](https://aman.fyi)
